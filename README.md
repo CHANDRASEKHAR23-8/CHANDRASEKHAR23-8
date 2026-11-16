@@ -32,22 +32,16 @@ Tools: Git, GitHub, Eclipse
 
 Interests: DSA, AI, Full Stack Development
 
-🚀 My Projects
+## 🚀 My Projects
 
-📚 Java Mini Projects
-
-🎬 Netflix Recommendation AI
-
-🏨 StayEase Hotel Booking
-
-🌆 CityPulse
-
-🎮 Tic Tac Toe Minimax
-
-🏥 Hospital Management System
-
-🏨 Hotel Management System
-
+- 📚 [Java Mini Projects](https://github.com/CHANDRASEKHAR23-8/Java-Mini-Projects)
+- 🎬 [Netflix Recommendation AI](https://github.com/CHANDRASEKHAR23-8/netflix-recommendation-ai)
+- 🏨 [StayEase Hotel Booking](https://github.com/CHANDRASEKHAR23-8/stayease-hotel-booking)
+- 🌆 [CityPulse](https://github.com/CHANDRASEKHAR23-8/citypulse)
+- 🎮 [Tic Tac Toe Minimax](https://github.com/CHANDRASEKHAR23-8/tic-tac-toe-minimax)
+- 🏥 [Hospital Management System](https://github.com/CHANDRASEKHAR23-8/Hospital-Management-System)
+- 🏨 [Hotel Management System JSP](https://github.com/CHANDRASEKHAR23-8/Hotel-Management-System-JSP)
+- 🏨 [Hotel Management System MERN](https://github.com/CHANDRASEKHAR23-8/Hotel-Management-System-MERN)
 📫 Connect With Me
 
 GitHub: CHANDRASEKHAR23-8
