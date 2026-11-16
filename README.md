@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi there, I'm Chinni Chandra Sekhar!
 
-<!--
-**CHANDRASEKHAR23-8/CHANDRASEKHAR23-8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Aspiring Full Stack Developer | Java Developer | Java Intern | AI Enthusiast
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm passionate about software development, problem-solving, and building real-world applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- ☕ Interested in Java Development
+- 🌱 Learning Full Stack Development
+- 🧠 Practicing Data Structures & Algorithms
+- 🤖 Exploring Artificial Intelligence
+- 💻 Building real-world projects
+- 🎯 Goal: Become a skilled Software Developer
+
+## 🛠️ Technical Skills
+
+- **Languages:** Java, JavaScript
+- **Frontend:** HTML, CSS, React
+- **Backend:** Java, JSP, Servlets, Spring Boot
+- **Database:** MySQL, Oracle
+- **Tools:** Git, GitHub, Eclipse
+- **Interests:** DSA, AI, Full Stack Development
+
+## 🚀 My Projects
+
+- 📚 Java Mini Projects
+- 🎬 Netflix Recommendation AI
+- 🏨 StayEase Hotel Booking
+- 🌆 CityPulse
+- 🎮 Tic Tac Toe Minimax
+- 🏥 Hospital Management System
+- 🏨 Hotel Management System
+
+## 📫 Connect With Me
+
+- **GitHub:** [CHANDRASEKHAR23-8](https://github.com/CHANDRASEKHAR23-8)
+- **Email:** chandrasekharchinni23@gmail.com
+
+---
+
+⭐ Thanks for visiting my profile! Feel free to explore my repositories.
