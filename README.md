@@ -1,36 +1,28 @@
-👋 Hi there, I'm Chinni Chandra Sekhar!
+![GitHub Banner](github-banner.png)
 
-🚀 Aspiring Full Stack Developer | Java Developer | Java Intern | AI Enthusiast
+# 👋 Hi there, I'm Chinni Chandra Sekhar!
+
+### 🚀 Aspiring Full Stack Developer | Java Developer | Java Intern | AI Enthusiast
 
 Welcome to my GitHub profile! I'm passionate about software development, problem-solving, and building real-world applications.
 
-👨‍💻 About Me
+## 👨‍💻 About Me
 
-☕ Interested in Java Development
+- ☕ Interested in Java Development
+- 🌱 Learning Full Stack Development
+- 🧠 Practicing Data Structures & Algorithms
+- 🤖 Exploring Artificial Intelligence
+- 💻 Building real-world projects
+- 🎯 Goal: Become a skilled Software Developer
 
-🌱 Learning Full Stack Development
+## 🛠️ Technical Skills
 
-🧠 Practicing Data Structures & Algorithms
-
-🤖 Exploring Artificial Intelligence
-
-💻 Building real-world projects
-
-🎯 Goal: Become a skilled Software Developer
-
-🛠️ Technical Skills
-
-Languages: Java, JavaScript
-
-Frontend: HTML, CSS, React
-
-Backend: Java, JSP, Servlets, Spring Boot
-
-Database: MySQL, Oracle
-
-Tools: Git, GitHub, Eclipse
-
-Interests: DSA, AI, Full Stack Development
+- **Languages:** Java, JavaScript
+- **Frontend:** HTML, CSS, React
+- **Backend:** Java, JSP, Servlets, Spring Boot
+- **Database:** MySQL, Oracle
+- **Tools:** Git, GitHub, Eclipse
+- **Interests:** DSA, AI, Full Stack Development
 
 ## 🚀 My Projects
 
@@ -42,18 +34,25 @@ Interests: DSA, AI, Full Stack Development
 - 🏥 [Hospital Management System](https://github.com/CHANDRASEKHAR23-8/Hospital-Management-System)
 - 🏨 [Hotel Management System JSP](https://github.com/CHANDRASEKHAR23-8/Hotel-Management-System-JSP)
 - 🏨 [Hotel Management System MERN](https://github.com/CHANDRASEKHAR23-8/Hotel-Management-System-MERN)
-📫 Connect With Me
 
-GitHub: CHANDRASEKHAR23-8
+## 📫 Connect With Me
 
-Email: chandrasekharchinni23@gmail.com
+- **GitHub:** [CHANDRASEKHAR23-8](https://github.com/CHANDRASEKHAR23-8)
+- **Email:** chandrasekharchinni23@gmail.com
 
-⭐ Thanks for visiting my profile! Feel free to explore my repositories.
+## 📊 GitHub Statistics
 
-📊 GitHub Statistics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CHANDRASEKHAR23-8&show_icons=true&theme=tokyonight)
 
+## 💻 Most Used Languages
 
-### 🛠️ Technologies & Tools
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CHANDRASEKHAR23-8&layout=compact&theme=tokyonight)
+
+## 🔥 Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=CHANDRASEKHAR23-8&theme=tokyonight)
+
+## 🛠️ Technologies & Tools
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -65,14 +64,6 @@ Email: chandrasekharchinni23@gmail.com
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-
-💻 Most Used Languages
-
-
-
-🔥 Contribution Streak
-
+---
 
 ⭐ Thanks for visiting my profile! Feel free to explore my repositories.
-
-
