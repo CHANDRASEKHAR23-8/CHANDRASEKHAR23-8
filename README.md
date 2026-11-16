@@ -1,4 +1,4 @@
-
+![GitHub Banner](github-banner.png)
 
 # 👋 Hi there, I'm Chinni Chandra Sekhar!
 
